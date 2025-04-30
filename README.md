@@ -37,3 +37,7 @@ pnpm install
 ```bash
 pnpm start:dev
 ```
+
+6. Reconstruir la base de datos
+
+- localhost:3000/api/seed
